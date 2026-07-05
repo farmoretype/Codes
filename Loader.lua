@@ -8,7 +8,8 @@ end
 task.spawn(function()
     local codes = {
         "BALLOON",
-        "BOSS"
+        "BOSS",
+        "FOURTH26"
     }
 
     for _, code in ipairs(codes) do
