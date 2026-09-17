@@ -5,7 +5,8 @@ task.spawn(function()
     local codes = {
         "DOG",
         "SHARK",
-        "BUFF"
+        "BUFF",
+        "PVP"
     }
 
     for _, code in ipairs(codes) do
