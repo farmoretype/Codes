@@ -6,7 +6,8 @@ task.spawn(function()
         "DOG",
         "SHARK",
         "BUFF",
-        "PVP"
+        "PVP",
+        "PRESIDENT"
     }
 
     for _, code in ipairs(codes) do
