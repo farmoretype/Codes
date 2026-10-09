@@ -3,11 +3,8 @@ local main_event = replicated_storage:WaitForChild("MainEvent")
 
 task.spawn(function()
     local codes = {
-        "DOG",
-        "SHARK",
-        "BUFF",
-        "PVP",
-        "PRESIDENT"
+        "MACRO!",
+        "ETERNAL"
     }
 
     for _, code in ipairs(codes) do
